@@ -1,0 +1,11 @@
+pycocotools~=2.0.8
+torch
+torchinfo
+torchvision==0.17
+numpy
+pandas
+typing
+tqdm
+pillow~=11.0.0
+matplotlib
+opencv-python
